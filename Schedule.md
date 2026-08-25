@@ -5,7 +5,7 @@ layout: default
 # Schedule of Topics and Assignments
 
 ---
-[Syllabus](index.html) · [Questions for Consideration](QforCs.html) · [Schedule](Schedule.html)
+[Syllabus](index.html) · [Questions for Consideration](QforCs.html)
 
 ---
 *(Subject to Change)*
@@ -41,7 +41,9 @@ layout: default
 - {You do not need to print this} <a href="https://drive.google.com/file/d/1W9EZCxbverjRf7GIUC_tl7L4vVonX3q8/view?usp=sharing" target="_blank">Geoffrey W. Conrad and Arthur A. Demerest, "The Aztec Imperial Expansion," in *Religion and Empire: Aztec and Inca Expansionism*, (New York: Cambridge University Press, 1984), 14–60.</a>
 
 
-> **Tue, Sept 8 — No Class**
+**Tue, Sept 8 —**
+
+> - **MAP QUIZ**
 
 **Thu, Sept 10** — Inca
 
@@ -65,7 +67,9 @@ Course Evaluations and Review
 
 - Inga Clendinnen, <a href="http://denison.idm.oclc.org/login?url=https://www-jstor-org.denison.idm.oclc.org/stable/2928758" target="_blank">"'Fierce and Unnatural Cruelty': Cortés and the Conquest of Mexico,"</a> *Representations* 33 (1991): 65–100.
 
-> **MAP QUIZ**
+- **Writing Workshop**
+
+> - **DUE: Primary Source Analysis #1 - Initial Draft**
 
 ---
 
@@ -80,6 +84,7 @@ Course Evaluations and Review
 - Bartolomé de las Casas, <a href="https://drive.google.com/file/d/1b2TS3Vu9aOuNXV_KSlYMXAUowxro0IkD/view?usp=sharing" target="_blank">"A brief narrative of the destruction of the Indies by the Spanish, trans MMMS (1583),"</a> in *Amazons, Savages, and Machiavels: Travel and Colonial Writing in English, 1550–1630: An Anthology*, ed. by Andrew Hadfield (New York: Oxford University Press, 2001), 250–55.
 - Bartolomé de las Casas, <a href="https://drive.google.com/file/d/1b6p-eUJygtdWkNEzV58F5rVIHbWBl1iK/view?usp=sharing" target="_blank">"Defense of Indian Civilization,"</a> in *Indian Freedom: The Cause of Bartolomé de las Casas, 1484–1564: A Reader*, trans. by Francis P. Sullivan, (Kansas City, MO: Sheed & Ward, 1995), 299–311.
 
+> - **DUE: Primary Source Analysis #1 - Final Draft**
 
 **Thu, Sept 24** — Spiritual Conquest
 
@@ -117,6 +122,8 @@ Course Evaluations and Review
 **Tue, Oct 6** — Mita and Migration
 
 - Ann Wightman, <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctv123x655.8" target="_blank">"'El Ayllu Forastero': Migration, Community Structure and Identity,"</a> in *Indigenous Migration and Social Change: The Forasteros of Cuzco, 1570–1720* (Durham: Duke University Press, 1990), 74–102. 
+
+> - **DUE: - Primary Source Analysis #2**
 
 **Thu, Oct 8** — Repartimiento de Mercancías: Extraction of Wealth from Indigenous Communities
 
@@ -207,12 +214,14 @@ IN CLASS EXERCISES
 - <a href="https://drive.google.com/file/d/1Gz9zTmVGKf4Jj6d5y6CCZ2yq40QOaeeG/view?usp=sharing" target="_blank">"Creole Town Councils Fear Change from Above and Below,"</a> in *Documenting Latin America*, vol. 1, 184–192.
 - Jorge Cañizares-Esguerra, <a href="https://drive.google.com/file/d/1oYF5JB6BP5_-BbpyUopfXQyEFQfdsMr7/view?usp=sharing" target="_blank">"New World, New Stars: Patriotic Astrology and the Invention of Indian and Creole Bodies in Colonial Spanish America, 1600–1650 [abridged],"</a> *The American Historical Review*, 104:1 (Feb 1999).
 
+> - **DUE: - Primary Source Analysis #3**
+
 **Thu, Nov 19** — Late Colonial Rebellion (Túpac Amaru II and the Comunero Revolt)
 - <a href="https://drive.google.com/file/d/1HrOw_MOdJKB4l8JBlCo2tYankPV2x8RY/view?usp=sharing" target="_blank">"A Charter of Liberty,"</a> in *Keen's Latin American Civilization*, 230–32.
 Leo Garofalo, <a href="https://drive.google.com/file/d/1HrOw_MOdJKB4l8JBlCo2tYankPV2x8RY/view?usp=sharing" target="_blank"> "Indian Leaders Tupac Amaru and Micaela Bastidas Fight to End Spanish Rule,"</a> in *Documenting Latin America*, 219–226.
 - Charles Walker, <a href="https://drive.google.com/file/d/1HsD8uyDJx11ly3qrOunRqwQ_IfSQVRj2/view?usp=sharing" target="_blank">"The Túpac Amaru Rebellion: Protonationalism and Inca Revivalism,"</a> in *Smoldering Ashes: Cuzco and the Creation of Republican Peru, 1780–1840* (Durham: Duke University Press, 1999), 16–54.</a>
 
-> **Thanksgiving Break: Nov 23–27 — No Class**
+> ### Thanksgiving Break: Nov 23–27 — No Class
 
 ---
 

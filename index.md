@@ -162,6 +162,6 @@ RECOGNIZE that my primary interest is to know what YOU THINK about the materials
 > - ACKNOWLEDGE any use of AI to your readers. Do so in a footnote. In a sentence, explain your use of AI and identify the tool(s) you consulted. 
 > - Do not CITE AI. Citations are meant to identify the work of other humans that you have consulted, and to provide a clear path to your evidence for your readers should they want to consult it themselves. AI-produced information is not reproducible, and thus is not a valid source. 
 > - DO NOT input/upload any personal information to AI. Do not provide your D\#, SSN\#, Passport\#, Slayter box \#, telephone number, etc. to A
-> - I DO NOT *UPLOAD* any course materials or assigned reading to AI.  Doing so may violate the Denison Code of Academic Integrity and Federal Copyright Law. |
+> - I DO NOT *UPLOAD* any course materials or assigned reading to AI.  Doing so may violate the Denison Code of Academic Integrity and Federal Copyright Law.
  
  ### [Schedule](Schedule.html) · [Questions for Consideration](QforCs.html)

@@ -6,7 +6,7 @@ layout: default
 **Prof Frank “Trey” Proctor III**
 
 ---
-[Syllabus](index.html) · [Questions for Consideration](QforCs.html) · [Schedule](Schedule.html)
+[Syllabus](index.html) · [Schedule](Schedule.html)
 
 ---
 
