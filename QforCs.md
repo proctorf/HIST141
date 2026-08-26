@@ -9,7 +9,7 @@ layout: default
 [Syllabus](index.html) · [Grades & Assignments](assignments.html) · [Policies](policies.html) · [Schedule](Schedule.html) · [Questions for Consideration](QforCs.html) · [Print All](print.html)
 
 ---
-
+# Questions for Consideration
 ## Unit One: Towards Colonialism
 
 <a id="topic-two"></a>

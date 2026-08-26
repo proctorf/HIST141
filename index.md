@@ -48,7 +48,6 @@ History is best understood as a conversation between a series of diverse argumen
 The purpose of office hours is to make myself available to my students to discuss our class, their assignments, and perhaps even their larger Denison experience.  I am here and ready to help/talk/listen.
 
 I would strongly encourage you to take advantage of office hours, or to set up an appointment.  I can promise that doing so will help you be your most effective and successful in my course.
-## Assignments and Grades
 
 ---
 [Syllabus](index.html) · [Grades & Assignments](assignments.html) · [Policies](policies.html) · [Schedule](Schedule.html) · [Questions for Consideration](QforCs.html) · [Print All](print.html)

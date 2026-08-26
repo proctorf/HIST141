@@ -6,6 +6,7 @@ layout: default
 [Syllabus](index.html) · [Grades & Assignments](assignments.html) · [Policies](policies.html) · [Schedule](Schedule.html) · [Questions for Consideration](QforCs.html) · [Print All](print.html)
 
 ---
+# Assignments and Grades
 ## Grades and Grading:
 Grading is a pedagogical tool. It is meant to signal to students where and how they can improve on meeting the expectations for the assignments in our class.  They are not a reflection of ability, character, or effort.  My comments on assignments are meant to highlight where improvement is possible on that assignment and should serve as guideposts for future assignments.  They are not a road map to earning “A’s.”  That may take time and practice.  And, I am here to help you in that journey.
 
