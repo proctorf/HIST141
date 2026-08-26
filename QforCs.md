@@ -6,7 +6,7 @@ layout: default
 **Prof Frank “Trey” Proctor III**
 
 ---
-[Syllabus](index.html) · [Schedule](Schedule.html)
+[Syllabus](index.html) · [Grades & Assignments](assignments.html) · [Policies](policies.html) · [Schedule](Schedule.html) · [Questions for Consideration](QforCs.html) · [Print All](print.html)
 
 ---
 
@@ -226,4 +226,4 @@ De blanco con mulata: TERCERON O CUARTERON CUATRALVO<br>
 <tr><td>Viceroyalty of Rio de la Plata</td><td>Creole nationalism</td><td></td></tr>
 </table>
 ---
-[Syllabus](index.html) · [Questions for Consideration](QforCs.html) · [Schedule](Schedule.html)
+[Syllabus](index.html) · [Grades & Assignments](assignments.html) · [Policies](policies.html) · [Schedule](Schedule.html) · [Questions for Consideration](QforCs.html) · [Print All](print.html)

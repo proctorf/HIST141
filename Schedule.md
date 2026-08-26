@@ -5,7 +5,7 @@ layout: default
 # Schedule of Topics and Assignments
 
 ---
-[Syllabus](index.html) · [Questions for Consideration](QforCs.html)
+[Syllabus](index.html) · [Grades & Assignments](assignments.html) · [Policies](policies.html) · [Schedule](Schedule.html) · [Questions for Consideration](QforCs.html) · [Print All](print.html)
 
 ---
 *(Subject to Change)*
@@ -18,9 +18,10 @@ layout: default
 
 **Tue, Sept 1** — Theories of Colonialism / Spain
 
-- <a href="https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0001" target="_blank">John Arnold, *History: A Very Short Introduction* (Oxford: Oxford University Press, 2000), 1–14.</a>
-- Ciao Prado Jr., "The Meaning of Colonization" in *The Colonial Background of Modern Brazil* (Berkeley: Univ. of California Press, 1967), 7–22.
-- William Roseberry, "Hegemony and the Language of Contention" in *Everyday Forms of State Formation: Revolution and the Negotiation of Rule in Modern Mexico*, Gilbert Joseph and Daniel Nugent, eds., (Durham: Duke Univ. Press, 1994), 355–61.
+- John Arnold, <a href="https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0001" target="_blank">*History: A Very Short Introduction*</a> (Oxford: Oxford University Press, 2000), 1–14.
+- <a href="https://drive.google.com/file/d/1WV9VOsAU-78mtDyZV3P4EXr-Q8vQfeEb/view?usp=sharing" target="_blank">“Coexistence in the Medieval Spanish Kingdoms (ninth to twelfth centuries),”</a> in *Colonial Latin America*, Kenneth Mills, William Taylor, and Sandra Lauderdale Graham, eds. (Lanham, MD: SR Books, 2002), 27-33.
+- <a href="https://drive.google.com/file/d/1WMMgrp7fHFk8xhyxnI6Wm286kobUvCHC/view?usp=sharing" target="_blank">“A Pope Rewards ‘So Salutary and Laudable a Work’ (1455)”</a> in Colonial Latin America, 34-42.
+
 
 ---
 
@@ -251,4 +252,4 @@ Leo Garofalo, <a href="https://drive.google.com/file/d/1HrOw_MOdJKB4l8JBlCo2tYan
 
 > **Final Paper Due: Wednesday, December 16 at 11am**
 ---
-[Syllabus](index.html) · [Questions for Consideration](QforCs.html) · [Schedule](Schedule.html)
+[Syllabus](index.html) · [Grades & Assignments](assignments.html) · [Policies](policies.html) · [Schedule](Schedule.html) · [Questions for Consideration](QforCs.html) · [Print All](print.html)
