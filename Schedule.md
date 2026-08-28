@@ -18,7 +18,7 @@ layout: default
 
 **Tue, Sept 1** — Theories of Colonialism / Spain
 
-- John Arnold, [*History: A Very Short Introduction*](readings/JohnArnold_CH1.pdf) (Oxford: Oxford University Press, 2000), 1–14. (Chapter 1)
+- John Arnold, [*History: A Very Short Introduction*](Readings/JohnArnold_CH1.pdf) (Oxford: Oxford University Press, 2000), 1–14. (Chapter 1)
 - <a href="https://drive.google.com/file/d/1WV9VOsAU-78mtDyZV3P4EXr-Q8vQfeEb/view?usp=sharing" target="_blank">“Coexistence in the Medieval Spanish Kingdoms (ninth to twelfth centuries),”</a> in *Colonial Latin America*, Kenneth Mills, William Taylor, and Sandra Lauderdale Graham, eds. (Lanham, MD: SR Books, 2002), 27-33.
 - <a href="https://drive.google.com/file/d/1WMMgrp7fHFk8xhyxnI6Wm286kobUvCHC/view?usp=sharing" target="_blank">“A Pope Rewards ‘So Salutary and Laudable a Work’ (1455)”</a> in Colonial Latin America, 34-42.
 
