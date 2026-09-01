@@ -36,7 +36,7 @@ layout: default
 **Thu, Sept 3** — Aztecs
 
 - <a href="https://drive.google.com/file/d/1WDrUXmGbe7UAP7VU1BgiYZs_udRfL5OX/view?usp=sharing" target="_blank">"The Halls of Moctezuma," "Aztec Industry and Commerce," and "The Condition of the Aztec Peasantry,"</a> in *Keen's Latin American Civilization: History and Society, 1492 to the Present*, Robert Buffington and Lila Caimari, eds., (Boulder, CO: Westview Press, 2009), 6–12.
-- <a href="http://chnm.gmu.edu/cyh/primary-sources/441" target="_blank">"How the Aztec (Nahua) Raised Sons as Warriors [Document],"</a> in *Children and Youth in History*, Item #441.
+- <a href="[http://chnm.gmu.edu/cyh/primary-sources/441](https://docs.google.com/document/d/1g0ptlmkToKv8YGbjvDKCN3yNl30CQTgT7kom4c116hM/edit?usp=sharing)" target="_blank">"How the Aztec (Nahua) Raised Sons as Warriors [Document],"</a> in *Children and Youth in History*, Item #441.
 - <a href="https://docs.google.com/document/d/1SNrkN2ypM5HGDFhkLMjmO7juNg_6lNkdCJXdP41B8X8/edit?usp=sharing" target="_blank">"Advice of an Aztec Mother to Her Daughter [Document],"</a> in *Children and Youth in History*, Item #443.
 - <a href="https://docs.google.com/document/d/16Sqni1EqfcyJ1GevDOnW5GjIjXsaMbnzbLHcbT1CwmI/edit?usp=sharing" target="_blank">"Advice of an Aztec Father to His Sons [Document],"</a> in *Children and Youth in History*, Item #442.
 - {You do not need to print this} <a href="https://drive.google.com/file/d/1W9EZCxbverjRf7GIUC_tl7L4vVonX3q8/view?usp=sharing" target="_blank">Geoffrey W. Conrad and Arthur A. Demerest, "The Aztec Imperial Expansion," in *Religion and Empire: Aztec and Inca Expansionism*, (New York: Cambridge University Press, 1984), 14–60.</a>
