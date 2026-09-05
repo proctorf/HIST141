@@ -44,13 +44,14 @@ layout: default
 
 **Tue, Sept 8 —**
 
-> - **MAP QUIZ**
+> NO CLASS - Professor Proctor Away from Campus
 
 **Thu, Sept 10** — Inca
 
 - <a href="https://drive.google.com/file/d/1WL-79MxgHJmj8V7m-KcAbe_r1hzLBMR6/view?usp=sharing" target="_blank">"How the Inca Formed a Nation," "The Village as the Basis of Incan Society," & "Two Views of the Incan Empire,"</a> in *Keen's Latin American Civilization: History and Society, 1492 to the Present*, Robert Buffington and Lila Caimari, eds., (Boulder, CO: Westview Press, 2009), 25–32.
 - Irene Silverblatt, <a href="http://denison.idm.oclc.org/login?url=https://www-jstor-org.denison.idm.oclc.org/stable/179023" target="_blank">"Inca Imperial Dilemmas, the Politics of Kinship and Inca Reconstructions of History,"</a> *Comparative Studies in History and Society* 30 (1988): 83–102.
-Course Evaluations and Review
+
+- **MAP QUIZ**
 ---
 
 ## Topic Three: Conquest of Mexico and Andes
