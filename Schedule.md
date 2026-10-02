@@ -125,16 +125,13 @@ layout: default
 
 - Ann Wightman, <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctv123x655.8" target="_blank">"'El Ayllu Forastero': Migration, Community Structure and Identity,"</a> in *Indigenous Migration and Social Change: The Forasteros of Cuzco, 1570–1720* (Durham: Duke University Press, 1990), 74–102. 
 
-> - **DUE: - Primary Source Analysis #2**
 
 **Thu, Oct 8** — Repartimiento de Mercancías: Extraction of Wealth from Indigenous Communities
 
 - Jeremy Baskes, <a href="http://denison.idm.oclc.org/login?url=https://www-jstor-org.denison.idm.oclc.org/stable/157985" target="_blank">"Coerced or Voluntary? The Repartimiento and Market Participation of Peasants in Late Colonial Oaxaca,"</a> *Journal of Latin American Studies* 28:1 (1996): 1–28.
 
-**Tue, Oct 13** — **Midterm**
 
-> **Thu, Oct 15 — Fall Break, No Class**
-
+> **FRIDAY OCT 9, 5pm <br> DUE: - Primary Source Analysis #2**
 ---
 
 ## Unit Three: Colonial Society
@@ -145,15 +142,22 @@ layout: default
 
 <a href="QforCs.md#topic-seven" target="_blank">Questions for Consideration →</a>
 
-**Tue, Oct 20** — Colonial Brazil, Sugar, and Slavery
+**Tue, Oct 13** — Colonial Brazil, Sugar, and Slavery
 
 - Stuart Schwartz, <a href="https://drive.google.com/file/d/1GDSKyL8tWfyaV0lHWZDUPC3mYE0BvAog/view?usp=sharing" target="_blank">"Sugar Plantation Labor and Slave Life,"</a> in *Slaves, Peasants, and Rebels: Reconsidering Brazilian Slavery* (Urbana: Univ. of Illinois Press, 1996), 39–59.
 - Estéban Montejo, <a href="https://drive.google.com/file/d/1GJ2ZkqDUHux6dF7-Se9Dv8He3Pk4hxT7/view?usp=sharing" target="_blank">"A Cuban Slave's Testimony,"</a> in *Slavery and Beyond: The African Impact on Latin America and the Caribbean*, Daríen J. Davis, ed., (Wilmington, DE: Scholarly Resources), 11–28.
 
-**Thu, Oct 22** — To be a Slave in Urban Brazil
+> **Thu, Oct 15 — Fall Break, No Class**
+
+
+
+**Tue, Oct 20** — To be a Slave in Urban Brazil
 
 - Mary Karasch, <a href="https://drive.google.com/file/d/1GQ2GPCPYI4TPMKgb5aA4-YLEB_uorNJZ/view?usp=sharing" target="_blank">"Anastacia and the Slave Women of Rio,"</a> from *Africans in Bondage: Studies in Slavery and the Slave Trade*, Paul Lovejoy, ed., (Madison: African Studies Program, Univ. of Wisconsin Press, 1986), pp. 79–105.
 - Hendrik Kraay, <a href="https://drive.google.com/file/d/1GZ4lPLHvfC7-bcXguFKhFd0V59RCEfMF/view?usp=sharing" target="_blank">"Urban Slavery in Salvador, Bahia, Brazil: The Wills of Capitan Joaquim Félix de Santana, Colonel Manoel Pereira da Silva, and Rosa Maria de Conceição,"</a> in *Colonial Lives: Documents on Latin American History, 1550–1850* (Oxford: Oxford University Press, 2000), 279–294.
+
+
+**Thu, Oct 22** — **Midterm** 
 
 ---
 
