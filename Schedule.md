@@ -172,7 +172,7 @@ layout: default
 **Thu, Oct 29** — Race Cont. / Casta Paintings
 
 - R. Douglas Cope, <a href="https://drive.google.com/file/d/1G_Rm_N4aXo5-5xvkkOH02ya9gw_XHhaJ/view?usp=sharing" target="_blank">*The Limits of Racial Domination: Plebian Society in Colonial Mexico City, 1660–1720*</a> (Madison: Univ. of Wisconsin Press, 1994), 49–56 & 68–85.
-- Richard Boyer, "Caste and Identity in Colonial Mexico: A Proposal and an Example," Unpublished Paper.
+- Richard Boyer, <a href="Readings/RBoyer_unpublished.pdf" target ="_blank"> "Caste and Identity in Colonial Mexico: A Proposal and an Example,"</a> Unpublished Paper.
 
 IN CLASS EXERCISES
 
