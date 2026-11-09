@@ -197,8 +197,7 @@ IN CLASS EXERCISES
 
 **Tue, Nov 10** — Women: Expectations and Realities
 
-- Muriel Nazzari, "'An Urgent Need to Conceal': The System of Shame and Honor in Colonial Brazil," in *The Faces of Honor: Sex, Shame, and Violence in Colonial Latin America*, Lyman Johnson and Sonya Lipsett-Rivera, eds., (Albuquerque: Univ. of New Mexico Press, 1998), 103–25.
-- TBD
+- Muriel Nazzari, <a href="https://muse-jhu-edu.denison.idm.oclc.org/pub/169/edited_volume/chapter/2676339" target="_blank">"'An Urgent Need to Conceal': The System of Shame and Honor in Colonial Brazil,"</a> in *The Faces of Honor: Sex, Shame, and Violence in Colonial Latin America*, Lyman Johnson and Sonya Lipsett-Rivera, eds., (Albuquerque: Univ. of New Mexico Press, 1998), 103–25.
 
 **Thu, Nov 12** — Colonial Women in Primary Documents: Gender and Sex
 
