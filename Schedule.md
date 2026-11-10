@@ -190,7 +190,7 @@ IN CLASS EXERCISES
 
 **Thu, Nov 5** — Expectations and Realities for Colonial Women
 
-- Kimberley Gauderman, <a href="https://doi.org/10.1080/1060916042000210819" target="_blank">"A Loom of Her Own: Women and Textiles in Seventeenth-Century Quito,"</a> *Colonial Latin American Review* 13:1 (2004): 47–63.</a>
+- Kimberley Gauderman, <a href="https://doi.org/10.1080/1060916042000210819" target="_blank">"A Loom of Her Own: Women and Textiles in Seventeenth-Century Quito,"</a> *Colonial Latin American Review* 13:1 (2004): 47–63.
 - Kathleen A. Myers, <a href="https://www.jstor.org/stable/2503578" target="_blank">"A Glimpse of Family Life in Colonial Mexico: A Nun's Account,"</a> *Latin American Research Review* 28:2 (1993): 63–87.
 
 
