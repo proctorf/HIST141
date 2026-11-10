@@ -204,6 +204,7 @@ IN CLASS EXERCISES
 - Richard Boyer, <a href="https://drive.google.com/file/d/1Gj0q1mgKD-c3JHjECIRuPR_ViWjHrT50/view?usp=sharing" target="_blank">"Catarina María Complains that Juan Teioa Forcibly Deflowered Her (Mexico, 1693),"</a> in *Colonial Lives*, 155–165. *[Warning: This source includes an accusation of sexual assualt]*
 - Sor Juana Inés de la Cruz, <a href="https://drive.google.com/file/d/1Gd1tU9CkqGDYUmRedADjTbeXpFXT4Bff/view?usp=sharing" target="_blank">"On Men's Hypocrisy,"</a> in *The Mexico Reader: History, Culture, Politics*, Gilbert M. Joseph and Timothy J. Henderson, eds., (Durham: Duke University Press, 2002), 156–59.
 - <a href="https://drive.google.com/file/d/1GhQ3DtLuEvtKZkpjXvwpmyEn1KQ-XgNw/view?usp=sharing" target="_blank">"To Change the Fate of All Women: Charges of Witchcraft against Juana de Mayo,"</a> in *Documenting Latin America*, vol. 1, 158–167.
+
 ---
 
 ## Unit Four: Colonial Collapse and Independence
@@ -216,8 +217,8 @@ IN CLASS EXERCISES
 
 **Tue, Nov 17** — The Bourbon Reforms and the Rise of Creole Identity
 
-- <a href="https://drive.google.com/file/d/1Gz9zTmVGKf4Jj6d5y6CCZ2yq40QOaeeG/view?usp=sharing" target="_blank">"Creole Town Councils Fear Change from Above and Below,"</a> in *Documenting Latin America*, vol. 1, 184–192.
 - Jorge Cañizares-Esguerra, <a href="https://drive.google.com/file/d/1oYF5JB6BP5_-BbpyUopfXQyEFQfdsMr7/view?usp=sharing" target="_blank">"New World, New Stars: Patriotic Astrology and the Invention of Indian and Creole Bodies in Colonial Spanish America, 1600–1650 [abridged],"</a> *The American Historical Review*, 104:1 (Feb 1999).
+- <a href="https://drive.google.com/file/d/1Gz9zTmVGKf4Jj6d5y6CCZ2yq40QOaeeG/view?usp=sharing" target="_blank">"Creole Town Councils Fear Change from Above and Below,"</a> in *Documenting Latin America*, vol. 1, 184–192.
 
 > - **DUE: - Primary Source Analysis #3**
 
