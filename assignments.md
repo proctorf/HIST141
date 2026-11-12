@@ -33,7 +33,7 @@ We will work together to learn exactly what this might mean throughout the semes
 **Primary Source Analyses Due Dates**  
 **Paper 1** (on primary source readings from before 9/15): **Due:** Tues 9/17 (revision due 9/22)  
 **Paper 2** (on primary source readings from 9/22 \- 9/29) **Due**: Tues, Oct 6  
-**Paper 3** (on primary source readings from 10/20 (including sources at the end of the Schwartz chapter) \- Nov 12\) **Due**: Tues 11/17 
+**Paper 3** (on primary source readings from 10/27 (including sources at the end of the Schwartz chapter) \- Nov 17\) **Due**: Fri 11/20 at 5pm 
 
 Approach this assignment as if you are the first person to have discovered your primary source; and you are answering the question “why should a student of colonial Latin America read THIS source?”
 
