@@ -220,12 +220,13 @@ IN CLASS EXERCISES
 - Jorge Cañizares-Esguerra, <a href="https://drive.google.com/file/d/1oYF5JB6BP5_-BbpyUopfXQyEFQfdsMr7/view?usp=sharing" target="_blank">"New World, New Stars: Patriotic Astrology and the Invention of Indian and Creole Bodies in Colonial Spanish America, 1600–1650 [abridged],"</a> *The American Historical Review*, 104:1 (Feb 1999).
 - <a href="https://drive.google.com/file/d/1Gz9zTmVGKf4Jj6d5y6CCZ2yq40QOaeeG/view?usp=sharing" target="_blank">"Creole Town Councils Fear Change from Above and Below,"</a> in *Documenting Latin America*, vol. 1, 184–192.
 
-> - **DUE: - Primary Source Analysis #3**
 
 **Thu, Nov 19** — Late Colonial Rebellion (Túpac Amaru II and the Comunero Revolt)
 - <a href="https://drive.google.com/file/d/1HrOw_MOdJKB4l8JBlCo2tYankPV2x8RY/view?usp=sharing" target="_blank">"A Charter of Liberty,"</a> in *Keen's Latin American Civilization*, 230–32.
 Leo Garofalo, <a href="https://drive.google.com/file/d/1HrOw_MOdJKB4l8JBlCo2tYankPV2x8RY/view?usp=sharing" target="_blank"> "Indian Leaders Tupac Amaru and Micaela Bastidas Fight to End Spanish Rule,"</a> in *Documenting Latin America*, 219–226.
 - Charles Walker, <a href="https://drive.google.com/file/d/1HsD8uyDJx11ly3qrOunRqwQ_IfSQVRj2/view?usp=sharing" target="_blank">"The Túpac Amaru Rebellion: Protonationalism and Inca Revivalism,"</a> in *Smoldering Ashes: Cuzco and the Creation of Republican Peru, 1780–1840* (Durham: Duke University Press, 1999), 16–54.</a>
+
+> ## **DUE: - Primary Source Analysis #3** Friday Nov 20 at 5pm
 
 > ### Thanksgiving Break: Nov 23–27 — No Class
 
